@@ -1,0 +1,14 @@
+{
+  "features": {
+    "p093_benefits_backlog_forecaster_wait_time_min": 0.0,
+    "p093_benefits_backlog_forecaster_application_completeness": 0.0,
+    "p093_benefits_backlog_forecaster_service_load": 0.0,
+    "p093_benefits_backlog_forecaster_repeat_visits": 0.0,
+    "p093_benefits_backlog_forecaster_travel_distance_km": 0.0,
+    "p093_benefits_backlog_forecaster_staff_ratio": 0.0,
+    "p093_benefits_backlog_forecaster_response_delay_hours": 0.0,
+    "p093_benefits_backlog_forecaster_neighborhood_index": 0.0,
+    "p093_benefits_backlog_forecaster_weather_impact": 0.0,
+    "p093_benefits_backlog_forecaster_request_complexity": 0.0
+  }
+}
